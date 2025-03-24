@@ -6,8 +6,8 @@ export default function Home() {
     <div className={estilos.page}>
       <main className={estilos.main}>
         <div>
-          <h1>Bem vindo ao nosso exemplo de navegação react</h1>
-          <p>ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>
+          <h1>Bem vindo ao nosso exemplo de navegação react</h1>c
+          <p>ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>c
         </div>
       </main>
     </div>
